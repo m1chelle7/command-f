@@ -1,6 +1,6 @@
 # Command-F
 ## Description
-A program that illustrates my favorite shortcut, Command + 'F'. This program can find the number of occurances of any word in a pdf file. 
+A fun project that illustrates my favorite shortcut, Command + 'F'. This program can find the number of occurances of any word in a pdf file. 
 
 ## Assumptions
 1. Special strings such as 2.7a are broken up into separate words ("2" and "7a")
